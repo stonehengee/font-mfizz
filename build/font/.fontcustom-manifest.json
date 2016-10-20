@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d6049142c209d46f3b9a6c50141df1af1c2bc2a58f8a65c6f533a0b224cc2ec5",
-    "current": "d6049142c209d46f3b9a6c50141df1af1c2bc2a58f8a65c6f533a0b224cc2ec5"
+    "previous": "6c452cbb432383aa5bb2137ca6bfa6683c964e3002c560d3cd6147f9ac2a3372",
+    "current": "6c452cbb432383aa5bb2137ca6bfa6683c964e3002c560d3cd6147f9ac2a3372"
   },
   "fonts": [
     "build/font/font-mfizz.ttf",
